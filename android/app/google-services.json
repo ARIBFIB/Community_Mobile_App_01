@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "347686761591",
+    "firebase_url": "https://community-chat-6bccc-default-rtdb.firebaseio.com",
+    "project_id": "community-chat-6bccc",
+    "storage_bucket": "community-chat-6bccc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347686761591:android:f734c480bc9e171e84c272",
+        "android_client_info": {
+          "package_name": "com.example.companio_community_chat_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeiq3XVr4dmp6QllWUKOPROcvyDvP5v8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
